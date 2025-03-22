@@ -69,3 +69,12 @@ _Data Analysis:_
   * awesome_chocolate_.pbix:  Power BI file with the interactive dashboard.
   * README.md:  This file, providing an overview of the project.
 
+**Screenshots**
+
+Dashboard Overview
+![image](https://github.com/user-attachments/assets/c61ab8dd-7eba-46b7-b63b-a2f1255bdfa6)
+
+
+Dynamic Parameter Visualization
+![image](https://github.com/user-attachments/assets/f21d1b4e-95b6-4f58-a31c-e1a94327c430)
+
