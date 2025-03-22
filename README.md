@@ -32,6 +32,7 @@ _Interactive Dashboard:_
           * Sales trend over time
 
 **Skills Demonstrated**
+
 _SQL:_
   * Writing complex queries.
   * Implementing parameterized queries for dynamic data filtering.
