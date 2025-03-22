@@ -6,30 +6,47 @@ _Project Overview_
 Objective: Analyze sales data to uncover trends, patterns, and insights that can help improve business decisions.
 
 _Tools Used:_
+
   --> SQL: For querying and transforming raw data.
+
   --> Power BI: For data visualization and creating interactive dashboards.
 
+
 _Key Features:_
+
   --> Imported and transformed raw sales data from SQL into Power BI.
+  
   --> Created dynamic visualizations using parameterized queries in SQL.
+  
   --> Built an interactive dashboard that updates dynamically based on parameter changes.
+
 
 **Features**
 
+
 _Data Import and Transformation:_
+
   --> Imported raw sales data and related datasets from SQL into Power BI.
+  
   --> Cleaned and transformed the data using Power Query in Power BI.
 
 _Parameterized Queries:_
+  
   --> Implemented parameterized SQL queries to dynamically filter and analyze data.
+  
   --> Visualized the parameterized data in Power BI, allowing users to interact with the dashboard in real-time.
 
 _Interactive Dashboard:_
+  
   -->Created a visually appealing and user-friendly dashboard in Power BI.
+  
   -->Included key metrics such as:
-          * Total Sales
-          * Sales by Region
-          * Sales trend over time
+  
+* Total Sales
+   
+* Sales by Region
+
+* Sales trend over time
 
 **Skills Demonstrated**
 
