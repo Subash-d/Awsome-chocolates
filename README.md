@@ -1,6 +1,6 @@
 **Awesome Chocolates - Sales Data Analysis**
 
-This project focuses on analyzing sales data for Awesome Chocolates,a chocolate company. The goal was to import, transform, and visualize the data to derive actionable insights. The project leverages SQL for data querying and Power BI for creating interactive dashboards.
+This project focuses on analyzing sales data for Awesome Chocolates, a chocolate company. The goal was to import, transform, and visualize the data to derive actionable insights. The project leverages SQL for data querying and Power BI for creating interactive dashboards.
 
 _Project Overview_
 Objective: Analyze sales data to uncover trends, patterns, and insights that can help improve business decisions.
